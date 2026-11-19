@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Заказ еды</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="welcome_sub">Войдите, чтобы заказать еду</string>
+    <string name="hint_name">Ваше имя</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="error_empty">Поле не должно быть пустым</string>
+    <string name="error_qty">Введите количество больше 0</string>
+
+    <string name="form_title">Данные доставки</string>
+    <string name="form_sub">Куда привезти заказ?</string>
+    <string name="hint_fullname">ФИО</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_address">Адрес доставки</string>
+    <string name="btn_save">Сохранить</string>
+
+    <string name="hello_user">Привет, %1$s!</string>
+    <string name="menu_sub">Что хотите сделать?</string>
+    <string name="menu_order">Заказ еды</string>
+    <string name="menu_delivery">Доставка</string>
+    <string name="menu_profile">Профиль</string>
+    <string name="menu_exit">Выход</string>
+
+    <string name="orders_title">Мой заказ</string>
+    <string name="hint_qty">Кол-во</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="total">Итого: %1$d ₽</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Пароль</string>
+    <string name="hint_email">you@example.com</string>
+    <string name="hint_password_ph">Ваш пароль</string>
+    <string name="error_email">Введите корректный e-mail</string>
+    <string name="label_fullname">ФИО</string>
+    <string name="label_phone">Телефон</string>
+    <string name="label_address">Адрес</string>
+    <string name="ph_fullname">Иванов Иван</string>
+    <string name="ph_phone">+7 900 000-00-00</string>
+    <string name="ph_address">Улица, дом, кв.</string>
+    <string name="orders_header">Заказ</string>
+    <string name="app_brand">FoodOrder</string>
+</resources>
